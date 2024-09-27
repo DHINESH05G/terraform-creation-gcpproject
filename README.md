@@ -15,7 +15,7 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/dhinesh05g/gcp-iac.git
+git remote add origin git@github.com:DHINESH05G/terraform-creation-gcpproject.git
 git branch -M main
 git push -uf origin main
 ```
